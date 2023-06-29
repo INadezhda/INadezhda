@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @INadezhda
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python
 
 <!---
 INadezhda/INadezhda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
