@@ -21,7 +21,7 @@
   <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46309/tools_Django_color.png"title="Diango" width="40" height="40"/>&nbsp;
 </div> 
   <h4>
-    My stat
+  My stat
   </h4>
 <div id="stat" align="center">
   <img src="https://github-profile-summary-cards.versel.app/api/cards/stats?
