@@ -24,8 +24,7 @@
   My stat
   </h4>
 <div id="stat" align="center">
-  <img src="https://github-profile-summary-cards.versel.app/api/cards/stats?
-    username=INadezhda&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.versel.app/api/cards/stats?username=INadezhda&theme=github_dark"alt=""/>
 </div>  
 <!---
 INadezhda/INadezhda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
