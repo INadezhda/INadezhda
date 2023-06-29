@@ -19,9 +19,13 @@
   <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46280/tools_SQL_color.png"title="SQL" width="40" height="40"/>&nbsp;
   <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46313/tools_GIT_color.png"title="Git" width="40" height="40"/>&nbsp;
   <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46309/tools_Django_color.png"title="Diango" width="40" height="40"/>&nbsp;
-</div>  
-<div>
-  <img src="https://github-profile-summary-cards.versel.app/api/cards/profile-details?username=INadezhda&theme=github_dark"/>
+</div> 
+  <h4>
+    My stat
+  </h4>
+<div id="stat" align="center">
+  <img src="https://github-profile-summary-cards.versel.app/api/cards/stats?
+    username=INadezhda&theme=github_dark"/>
 </div>  
 <!---
 INadezhda/INadezhda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
