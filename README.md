@@ -6,11 +6,11 @@
 <div>
  <div>
  <h4>About me</h4>
-<p>- 👀 I’m interested in programming</p>
-<p>- 🌱 I’m currently learning Python,SQL</p>
-<p> - ✉️ Reach me by email kalginana@mail.ru </p>    
+<ul>- 👀 I’m interested in programming</ul>
+<ul>- 🌱 I’m currently learning Python,SQL</ul>
+<ul> - ✉️ Reach me by  <a href="kalginana@mail.ru"</a>email</ul>    
  </div>
-<div>
+  <div>
   <H4>Languages and tools</H4>
   <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46277/tools_Python_color.png" title="Python" width="40" height="40"/>&nbsp;
   <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46300/tools_GitHub_color.png" title="GitHub" width="40" height="40"/>&nbsp;
@@ -20,13 +20,21 @@
   <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46313/tools_GIT_color.png"title="Git" width="40" height="40"/>&nbsp;
   <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46309/tools_Django_color.png"title="Diango" width="40" height="40"/>&nbsp;
 </div> 
-  <h4>
+ <!--- <h4>
   My stat
   </h4>
 <div id="stat" align="center">
 <img src="https://github-profile-summary-cards.versel.app/api/cards/stats?username=INadezhda&theme=github_dark"alt=""/>
 </div>  
 <!---
+<div>
+<h4>My projects</h4>
+</div>
 INadezhda/INadezhda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div>
+<h4>My projects</h4>
+  <ul><a href="https://netology.ru/programs/python">ntr</a></ul>
+</div>
+
