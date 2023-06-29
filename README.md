@@ -6,9 +6,9 @@
 <div>
  <div>
  <h4>About me</h4>
-<ul>- 👀 I’m interested in programming</ul>
-<ul>- 🌱 I’m currently learning Python,SQL</ul>
-<ul> - ✉️ Reach me by  <a href="kalginana@mail.ru"</a>email</ul>    
+<ul>👀 I’m interested in programming</ul>
+<ul>🌱 I’m currently learning Python,SQL</ul>
+<ul>✉️ Reach me by  <a href="kalginana@mail.ru">email</a></ul>    
  </div>
   <div>
   <H4>Languages and tools</H4>
@@ -35,6 +35,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <div>
 <h4>My projects</h4>
-  <ul><a href="https://netology.ru/programs/python">ntr</a></ul>
+  <ul><a href="">Chat bot for dating</a></ul>
+  <ul><a href="">Edicational projects</a></ul>
+  <ul><a href="">Yandex Api</a></ul>
 </div>
 
