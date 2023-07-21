@@ -39,5 +39,6 @@ You can click the Preview link to take a look at your changes.
   <ul><a href="https://github.com/INadezhda/diplom_python.git">Chat bot for dating</a></ul>
   <ul><a href="https://github.com/INadezhda/Edicational_projects.git">Edicational projects</a></ul>
   <ul><a href="https://github.com/INadezhda/modul_python.git">Yandex Api</a></ul>
+  <ul><a href="https://github.com/INadezhda/Diploms-certificates.git">Diploms-certificates</a></ul>
 </div>
 
